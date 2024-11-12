@@ -3,7 +3,7 @@ import work from "../../../image/hero.jpg"
 import work2 from "../../../image/work.jpg"
 export default function WorkManagment(){
     return(
-        <div className="w-[1920px] h-[1588px] px-[220px] py-[140px] gap-[100px]">
+        <div className="w-[1920px] h-[1588px] px-[220px] py-[140px] gap-[100px] bg-[#FFFFFF]">
             <div className=" flex w-[1480px] h-[547px] gap-[60px]">
                 <div className="w-[672px] h-[411px] gap-[60px] my-16">
                     <div className="w-[672px] h-[288px] gap-6">

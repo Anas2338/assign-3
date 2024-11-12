@@ -2,7 +2,7 @@ import Image from "next/image"
 import Customize from "../../../image/hero.jpg"
 export default function Customize2(){
     return(
-        <div className="flex w-[1921px] h-[812.09px] py-[140px] px-[220px] gap-[98px]">
+        <div className="flex w-[1921px] h-[812.09px] py-[140px] px-[220px] gap-[98px] bg-[#FFFFFF]">
             <div className="flex w-[714px] h-[532.09px] gap-1">
                 <Image src={Customize} alt="customize2"/>
             </div>

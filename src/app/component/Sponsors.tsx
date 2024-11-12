@@ -5,7 +5,7 @@ import slack from "../../../image/Slack.png"
 import google from "../../../image/Google.png"
 export default function Sponsors(){
     return(
-        <div className="w-[1922px] h-[538px] py-[140px] px-[220px] gap-[100px]">
+        <div className="w-[1922px] h-[538px] py-[140px] px-[220px] gap-[100px] bg-[#FFFFFF]">
             <div className="w-[1482px] h-[87px]">
                 <h1 className="font-inter font-bold text-7xl leading-[87.14px] -tracking-wide text-[#212529] text-center">Our sponsors</h1>
             </div>
